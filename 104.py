@@ -1,0 +1,2 @@
+listku = []
+print(listku)
